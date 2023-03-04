@@ -36,3 +36,4 @@ This is a repository where all GitHub For Dummies readers can add a link to thei
 | @kcollinsfx                  | This is cool. Never thought I would be learning how to use Github!!!         |
 | @jimbo                       | Das ist cool, Github                                                         |
 | @lextor99                    | I speak Ukrainian, Russian, English, French and Japanese                     |
+Не удается найти указанный файл.
